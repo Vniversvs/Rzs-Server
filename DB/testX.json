@@ -1,0 +1,100 @@
+{
+    "orders": [
+        {
+            "client": {
+                "name": "Andreza dos Santos Araújo",
+                "email": "andrezzaaraujo05@gmail.com",
+                "phone": "(21) 97417-5898",
+                "address": "Rua Áurea, 80 - Casa",
+                "bairro": "Santa Teresa  "
+            },
+            "totals": {
+                "subtotal": "R$ 102,50",
+                "frete": "R$ 10,00",
+                "TOTAL": "R$ 112,50"
+            },
+            "products": [
+                {
+                    "product name": " Flocão de Milho (Cuscuz) 500g     ",
+                    "cost": "5,50",
+                    "quantity": "3",
+                    "product total": "16,50"
+                },
+                {
+                    "product name": " ZCGYHFXMV Geleia de Amora 300g ",
+                    "cost": "20,00",
+                    "quantity": "2",
+                    "product total": "40,00"
+                },
+                {
+                    "product name": " 4AEJXYD4N Vinho de Mesa Tinto Seco 750ml ",
+                    "cost": "23,00",
+                    "quantity": "2",
+                    "product total": "46,00"
+                }
+            ]
+        },
+        {
+            "client": {
+                "name": "Alice Nied",
+                "email": "alice.450@gmail.com",
+                "phone": "(49) 99196-0608",
+                "address": "Rua Áurea, 80",
+                "bairro": "Santa Teresa  "
+            },
+            "totals": {
+                "subtotal": "R$ 63,50",
+                "frete": "R$ 10,00",
+                "TOTAL": "R$ 73,50"
+            },
+            "products": [
+                {
+                    "product name": " Abacate 1kg     ",
+                    "cost": "9,50",
+                    "quantity": "5",
+                    "product total": "47,50"
+                },
+                {
+                    "product name": "9CP6BAS8L Amido de Milho Não Transgênico 180 g ",
+                    "cost": "8,00",
+                    "quantity": "2",
+                    "product total": "16,00"
+                }
+            ]
+        },
+        {
+            "client": {
+                "name": "Alice Nied",
+                "email": "alice.450@gmail.com",
+                "phone": "(49) 99196-0608",
+                "address": "Rua Áurea, 80",
+                "bairro": "Santa Teresa  "
+            },
+            "totals": {
+                "subtotal": "R$ 86,50",
+                "frete": "R$ 10,00",
+                "TOTAL": "R$ 96,50"
+            },
+            "products": [
+                {
+                    "product name": " Açafrão em pó 125g     ",
+                    "cost": "20,00",
+                    "quantity": "3",
+                    "product total": "60,00"
+                },
+                {
+                    "product name": "QY4W485MN Acelga ",
+                    "cost": "3,50",
+                    "quantity": "3",
+                    "product total": "10,50"
+                },
+                {
+                    "product name": "2QV6F7K4R Açúcar Mascavo 500g ",
+                    "cost": "8,00",
+                    "quantity": "2",
+                    "product total": "16,00"
+                }
+            ]
+        }
+    ]
+}

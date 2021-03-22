@@ -1,0 +1,21 @@
+Dados do cliente
+Humberto santos palmeira
+CPF: 017.143.455-21
+E-mail: betompa00@gmail.com
+Telefone celular: (21) 98053-7524
+Endereço de Entrega
+Humberto santos palmeira
+Rua Áurea, 80 - Raizes do Brasil
+Santa Teresa - Rio De Janeiro / RJ
+CEP: 20240-210 - Brasil
+Produtos
+CódigoNomeValor unitárioQtd.Valor totalNomeValor unitárioQtd.Valor totalNomeValor unitárioQtd.Valor totalNomeValor unitárioQtd.Valor total
+SD6Y3ZHTHAçafrão em pó 125gAçafrão em pó 125gAçafrão em pó 125gAçafrão em pó 125g
+Disponibilidade: 5 dias úteis5 dias úteis5 dias úteis5 dias úteis
+R$ 20,001R$ 20,001R$ 20,001R$ 20,001R$ 20,00
+8BZDJ93G2Aromatizador ElétricoAromatizador ElétricoAromatizador ElétricoAromatizador Elétrico
+Disponibilidade: 5 dias úteis5 dias úteis5 dias úteis5 dias úteis
+R$ 60,002R$ 120,002R$ 120,002R$ 120,002R$ 120,00
+Subtotal:R$ 140,00R$ 140,00R$ 140,00R$ 140,00
+Envio via Retirar pessoalmente:R$ 0,00R$ 0,00R$ 0,00R$ 0,00
+Total:R$ 140,00R$ 140,00R$ 140,00R$ 140,00

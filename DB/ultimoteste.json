@@ -1,0 +1,2925 @@
+{
+    "orders": [
+        {
+            "client": {
+                "email": "cliente-email",
+                "name": "end-entrega-nome",
+                "phone": "end-entrega-telefone-celular",
+                "address": "end-entrega-endereco, end-entrega-numero, end-entrega-complemento",
+                "bairro": "end-entrega-bairro"
+            },
+            "products": [],
+            "totals": {
+                "subtotal": "pedido-valor-subtotal",
+                "frete": "pedido-valor-envio",
+                "TOTAL": "pedido-valor-total"
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Açafrão em pó 125g",
+                    "cost": 20,
+                    "product total": 60
+                }
+            ],
+            "totals": {
+                "subtotal": 60,
+                "frete": 0,
+                "TOTAL": 60
+            }
+        },
+        {
+            "client": {
+                "email": "keiko1@protonmail.com",
+                "name": "ELIEL DOS SANTOS FERREIRA",
+                "phone": "21971477653",
+                "address": "Rua Áurea, 80, Raizes do Brasil",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 50,
+                    "product name": "Açúcar Mascavo 500g",
+                    "cost": 8,
+                    "product total": 400
+                }
+            ],
+            "totals": {
+                "subtotal": 400,
+                "frete": 0,
+                "TOTAL": 400
+            }
+        },
+        {
+            "client": {
+                "email": "betompa00@gmail.com",
+                "name": "Humberto santos palmeira",
+                "phone": "21980537524",
+                "address": "Rua Áurea, 80, Raizes do Brasil",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Aromatizador Elétrico ",
+                    "cost": 60,
+                    "product total": 120
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Açafrão em pó 125g",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 140,
+                "frete": 0,
+                "TOTAL": 140
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Amora 300g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aromatizador Elétrico ",
+                    "cost": 60,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Morango S/ Açúcar 180g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Frutas Vermelhas S/ Açúcar 180g",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 120,
+                "frete": 0,
+                "TOTAL": 120
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Aromatizador Elétrico ",
+                    "cost": 60,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 80,
+                "frete": 0,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Aromatizador Elétrico ",
+                    "cost": 60,
+                    "product total": 60
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Iogurte de Morango 1litro",
+                    "cost": 18,
+                    "product total": 36
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte Natural 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 35,
+                    "product total": 35
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Doce de Leite 420g ",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Erva Mate Orgânica 1kg",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chia em Grãos 250g",
+                    "cost": 16,
+                    "product total": 32
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aveia em Laminas 250g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Misturadinho 500g",
+                    "cost": 11,
+                    "product total": 11
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Vinho de Mesa Branco Seco 750ml",
+                    "cost": 23,
+                    "product total": 46
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Vinho Cabernet Sauvignon 750ml",
+                    "cost": 40,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Polido Branco a Granel 1Kg",
+                    "cost": 10,
+                    "product total": 10
+                }
+            ],
+            "totals": {
+                "subtotal": 341,
+                "frete": 0,
+                "TOTAL": 341
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Açafrão em pó 125g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Açúcar Mascavo 500g",
+                    "cost": 8,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Misturadinho 500g",
+                    "cost": 11,
+                    "product total": 11
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Chocolate em Barra 70% cacau 80g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 5,
+                    "product name": "Abacate uni",
+                    "cost": 9.5,
+                    "product total": 47.5
+                }
+            ],
+            "totals": {
+                "subtotal": 134.5,
+                "frete": 0,
+                "TOTAL": 134.5
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate em Barra 56% cacau 80g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate em barra 65% com Nibs 80 g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Cacau em pó 100% 200g",
+                    "cost": 18,
+                    "product total": 36
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Acelga",
+                    "cost": 3.5,
+                    "product total": 7
+                }
+            ],
+            "totals": {
+                "subtotal": 123,
+                "frete": 0,
+                "TOTAL": 123
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Vinho de Mesa Tinto Seco 750ml",
+                    "cost": 23,
+                    "product total": 23
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Doce de Queijo 700g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Iogurte de Goiabada 1litro",
+                    "cost": 18,
+                    "product total": 54
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chia em Grãos 250g",
+                    "cost": 16,
+                    "product total": 32
+                }
+            ],
+            "totals": {
+                "subtotal": 129,
+                "frete": 0,
+                "TOTAL": 129
+            }
+        },
+        {
+            "client": {
+                "email": "alice.450@gmail.com",
+                "name": "Alice Nied",
+                "phone": "49991960608",
+                "address": "Rua Áurea, 80, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Espumante Rosé Brut 750ml",
+                    "cost": 65,
+                    "product total": 130
+                }
+            ],
+            "totals": {
+                "subtotal": 130,
+                "frete": 0,
+                "TOTAL": 130
+            }
+        },
+        {
+            "client": {
+                "email": "alice.450@gmail.com",
+                "name": "Alice Nied",
+                "phone": "49991960608",
+                "address": "Rua Áurea, 80, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Arroz 7 Grãos 500g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Erva Mate Orgânica 1kg",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Chocolate em barra 65% com Nibs 80 g",
+                    "cost": 20,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cacau em pó 100% 200g",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Chocolate em Barra 70% cacau 80g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 35,
+                    "product total": 35
+                },
+                {
+                    "quantity": 6,
+                    "product name": "Iogurte de Morango 1litro",
+                    "cost": 18,
+                    "product total": 108
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Iogurte Natural 1litro",
+                    "cost": 18,
+                    "product total": 54
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Minas Frescal 500g",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte de Goiabada 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aveia em Laminas 250g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Chia em Grãos 250g",
+                    "cost": 16,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Amido de Milho Não Transgênico 180 g",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 400,
+                "frete": 0,
+                "TOTAL": 400
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Queijo Coalho 500g",
+                    "cost": 25,
+                    "product total": 75
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Chocolate em barra 65% com Nibs 80 g",
+                    "cost": 20,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Vinho de Mesa Tinto Seco 750ml",
+                    "cost": 23,
+                    "product total": 23
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Embaixada do Papai 500ml",
+                    "cost": 26,
+                    "product total": 26
+                }
+            ],
+            "totals": {
+                "subtotal": 184,
+                "frete": 0,
+                "TOTAL": 184
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Geleia de Frutas Vermelhas S/ Açúcar 180g",
+                    "cost": 20,
+                    "product total": 60
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate em barra 65% com Nibs 80 g",
+                    "cost": 20,
+                    "product total": 40
+                }
+            ],
+            "totals": {
+                "subtotal": 100,
+                "frete": 0,
+                "TOTAL": 100
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Raízes do Brasil 600ml",
+                    "cost": 29,
+                    "product total": 87
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Smash 475ml",
+                    "cost": 29,
+                    "product total": 87
+                }
+            ],
+            "totals": {
+                "subtotal": 174,
+                "frete": 0,
+                "TOTAL": 174
+            }
+        },
+        {
+            "client": {
+                "email": "keiko1@protonmail.com",
+                "name": "ELIEL DOS SANTOS FERREIRA",
+                "phone": "21971477653",
+                "address": "Rua Áurea, 80, Raizes do Brasil",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Aveia em Flocos Grossos 350g",
+                    "cost": 12,
+                    "product total": 24
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Aveia em Laminas 250g",
+                    "cost": 8,
+                    "product total": 16
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate em Barra 70% cacau 80g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Vinho de Mesa Branco Seco 750ml",
+                    "cost": 23,
+                    "product total": 23
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Vinho Cabernet Sauvignon 750ml",
+                    "cost": 40,
+                    "product total": 160
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Fubá Milho Amarelo 1kg",
+                    "cost": 8.5,
+                    "product total": 25.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Milho de Pipoca Agroecológica 500g",
+                    "cost": 7,
+                    "product total": 7
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 7.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Fubá Milho Branco 1kg",
+                    "cost": 8.5,
+                    "product total": 8.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Polido Branco a Granel 1Kg",
+                    "cost": 10,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Misturadinho 500g",
+                    "cost": 11,
+                    "product total": 11
+                }
+            ],
+            "totals": {
+                "subtotal": 332.5,
+                "frete": 0,
+                "TOTAL": 332.5
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 4,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 80
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Vinho de Mesa Branco Seco 750ml",
+                    "cost": 23,
+                    "product total": 23
+                }
+            ],
+            "totals": {
+                "subtotal": 103,
+                "frete": 0,
+                "TOTAL": 103
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Doce de Queijo 700g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 35,
+                    "product total": 35
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Queijo frescal 500g ",
+                    "cost": 18,
+                    "product total": 36
+                },
+                {
+                    "quantity": 5,
+                    "product name": "Erva Mate Orgânica 1kg",
+                    "cost": 25,
+                    "product total": 125
+                }
+            ],
+            "totals": {
+                "subtotal": 236,
+                "frete": 0,
+                "TOTAL": 236
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 6,
+                    "product name": "Geleia de Amora 300g",
+                    "cost": 20,
+                    "product total": 120
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Arroz Integral Agulinha a Granel 1kg",
+                    "cost": 10,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 140,
+                "frete": 0,
+                "TOTAL": 140
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Erva Mate Orgânica 1kg",
+                    "cost": 25,
+                    "product total": 75
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Arroz 7 Grãos 500g",
+                    "cost": 12,
+                    "product total": 36
+                }
+            ],
+            "totals": {
+                "subtotal": 111,
+                "frete": 0,
+                "TOTAL": 111
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 35,
+                    "product total": 35
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte Natural 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte de Maracujá 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 91,
+                "frete": 0,
+                "TOTAL": 91
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Geleia de Frutas Vermelhas S/ Açúcar 180g",
+                    "cost": 20,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz 7 Grãos 500g",
+                    "cost": 12,
+                    "product total": 12
+                }
+            ],
+            "totals": {
+                "subtotal": 72,
+                "frete": 0,
+                "TOTAL": 72
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Aveia em Laminas 250g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Espumante Rosé Brut 750ml",
+                    "cost": 65,
+                    "product total": 65
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Vinho de Mesa Tinto Seco 750ml",
+                    "cost": 23,
+                    "product total": 23
+                }
+            ],
+            "totals": {
+                "subtotal": 96,
+                "frete": 0,
+                "TOTAL": 96
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 4,
+                    "product name": "Doce de Leite 420g ",
+                    "cost": 20,
+                    "product total": 80
+                }
+            ],
+            "totals": {
+                "subtotal": 80,
+                "frete": 0,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 4,
+                    "product name": "Doce de Leite 420g ",
+                    "cost": 20,
+                    "product total": 80
+                }
+            ],
+            "totals": {
+                "subtotal": 80,
+                "frete": 0,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "desapaiva72@gmail.com",
+                "name": "Andresa Paiva P.",
+                "phone": "79998866889",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 4,
+                    "product name": "Geleia de Amora 300g",
+                    "cost": 20,
+                    "product total": 80
+                }
+            ],
+            "totals": {
+                "subtotal": 80,
+                "frete": 0,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate Artesanal 62% com Café 15g ",
+                    "cost": 4,
+                    "product total": 8
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Chocolate Artesanal 85 % Cacau  15g ",
+                    "cost": 4,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate Artesanal 75 % Cacau 80g ",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cacau em pó 100% 200g",
+                    "cost": 18,
+                    "product total": 18
+                }
+            ],
+            "totals": {
+                "subtotal": 78,
+                "frete": 0,
+                "TOTAL": 78
+            }
+        },
+        {
+            "client": {
+                "email": "betompa00@gmail.com",
+                "name": "Humberto santos palmeira",
+                "phone": "21980537524",
+                "address": "Rua Áurea, 80, Raizes do Brasil",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Chocolate em Barra 70% cacau 80g",
+                    "cost": 20,
+                    "product total": 60
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Acelga",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Abacate uni",
+                    "cost": 9.5,
+                    "product total": 19
+                }
+            ],
+            "totals": {
+                "subtotal": 82.5,
+                "frete": 0,
+                "TOTAL": 82.5
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 16.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Acelga",
+                    "cost": 3.5,
+                    "product total": 14
+                }
+            ],
+            "totals": {
+                "subtotal": 70.5,
+                "frete": 0,
+                "TOTAL": 70.5
+            }
+        },
+        {
+            "client": {
+                "email": "alice.450@gmail.com",
+                "name": "Alice Nied",
+                "phone": "49991960608",
+                "address": "Rua Áurea, 80, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 3,
+                    "product name": "Pão de Hamburguer 6 und cenoura ",
+                    "cost": 12,
+                    "product total": 36
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Kombuchas alKimia 1L abacaxi e hortela ",
+                    "cost": 40,
+                    "product total": 40
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Amido de Milho Não Transgênico 180 g",
+                    "cost": 8,
+                    "product total": 16
+                }
+            ],
+            "totals": {
+                "subtotal": 92,
+                "frete": 0,
+                "TOTAL": 92
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Suco de Laranja  1 litro ",
+                    "cost": 22.5,
+                    "product total": 22.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Suco de Uva Rose 1 litro ",
+                    "cost": 22.5,
+                    "product total": 22.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Suco de Maçã  1 litro ",
+                    "cost": 22.5,
+                    "product total": 22.5
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 22
+                }
+            ],
+            "totals": {
+                "subtotal": 89.5,
+                "frete": 0,
+                "TOTAL": 89.5
+            }
+        },
+        {
+            "client": {
+                "email": "betompa00@gmail.com",
+                "name": "Humberto santos palmeira",
+                "phone": "21980537524",
+                "address": "Rua Áurea, 80, Raizes do Brasil",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Arroz Misturadinho 500g",
+                    "cost": 11,
+                    "product total": 22
+                },
+                {
+                    "quantity": 7,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 38.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Goiaba 300g ",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 120.5,
+                "frete": 0,
+                "TOTAL": 120.5
+            }
+        },
+        {
+            "client": {
+                "email": "andrezzaaraujo05@gmail.com",
+                "name": "ANDREZA DOS SANTOS ARAUJO",
+                "phone": "21974175898",
+                "address": "Rua Áurea, 80, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Vinho de Mesa Tinto Seco 750ml",
+                    "cost": 23,
+                    "product total": 46
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 16.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Geleia de Amora 300g",
+                    "cost": 20,
+                    "product total": 40
+                }
+            ],
+            "totals": {
+                "subtotal": 102.5,
+                "frete": 10,
+                "TOTAL": 112.5
+            }
+        },
+        {
+            "client": {
+                "email": "alice.450@gmail.com",
+                "name": "Alice Nied",
+                "phone": "49991960608",
+                "address": "Rua Áurea, 80, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 5,
+                    "product name": "Abacate uni",
+                    "cost": 9.5,
+                    "product total": 47.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Amido de Milho Não Transgênico 180 g",
+                    "cost": 8,
+                    "product total": 16
+                }
+            ],
+            "totals": {
+                "subtotal": 63.5,
+                "frete": 10,
+                "TOTAL": 73.5
+            }
+        },
+        {
+            "client": {
+                "email": "alice.450@gmail.com",
+                "name": "Alice Nied",
+                "phone": "49991960608",
+                "address": "Rua Áurea, 80, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Açúcar Mascavo 500g",
+                    "cost": 8,
+                    "product total": 16
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Acelga",
+                    "cost": 3.5,
+                    "product total": 10.5
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Açafrão em pó 125g",
+                    "cost": 20,
+                    "product total": 60
+                }
+            ],
+            "totals": {
+                "subtotal": 86.5,
+                "frete": 10,
+                "TOTAL": 96.5
+            }
+        },
+        {
+            "client": {
+                "email": "cristinavallereal@gmail.com",
+                "name": "Cristina Flores Penha Valle",
+                "phone": "21999941863",
+                "address": "Rua Radmacker, 48, 304",
+                "bairro": "Tijuca"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Canjiquinha Milho Amarelo 1kg",
+                    "cost": 8.5,
+                    "product total": 8.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Suco Integral de Uva Bordo 1 litro ",
+                    "cost": 22.5,
+                    "product total": 45
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Café do Campesinato MPA-BA (Torrado e Moído) 250g",
+                    "cost": 8.5,
+                    "product total": 8.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Açúcar Mascavo 500g",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 70,
+                "frete": 15,
+                "TOTAL": 85
+            }
+        },
+        {
+            "client": {
+                "email": "anaduda.c@gmail.com",
+                "name": "ANA DULCE ANDRADE DE MORAIS COUTINHO",
+                "phone": "21987100990",
+                "address": "Rua Áurea, 80, A",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana Prata 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte de Morango 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Batata Doce Cenoura 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tangerina 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Goiaba 1 kg",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 72,
+                "frete": 0,
+                "TOTAL": 72
+            }
+        },
+        {
+            "client": {
+                "email": "helenabyington@yahoo.com.br",
+                "name": "helena byington",
+                "phone": "11931094989",
+                "address": "Rua Filinto de Almeida, 86, casa",
+                "bairro": "Cosme Velho"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  500g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate em Pó 50% 300g",
+                    "cost": 18,
+                    "product total": 36
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 36
+                }
+            ],
+            "totals": {
+                "subtotal": 78,
+                "frete": 10,
+                "TOTAL": 88
+            }
+        },
+        {
+            "client": {
+                "email": "marcelarabello91@gmail.com",
+                "name": "Marcela Rabello de Castro Centelhas",
+                "phone": "21998713424",
+                "address": "Rua Professor Luiz Cantanhede, 163, Apto 201",
+                "bairro": "Laranjeiras"
+            },
+            "products": [
+                {
+                    "quantity": 2,
+                    "product name": "Milho de Pipoca Agroecológica 500g",
+                    "cost": 7,
+                    "product total": 14
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Palmito in natura 500g ",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Espinafre ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Couve Mineira ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Coentro ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Romana ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  1kg ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shimeji 200g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 6
+                }
+            ],
+            "totals": {
+                "subtotal": 79.5,
+                "frete": 10,
+                "TOTAL": 89.5
+            }
+        },
+        {
+            "client": {
+                "email": "mauriciompluz@gmail.com",
+                "name": "Maurício Roberto M P Luz",
+                "phone": "21997279706",
+                "address": "Rua Leite Leal, 135, 305 bloco 1",
+                "bairro": "Laranjeiras"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Shitake 200g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Quiabo 500g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aipim descascado 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 30,
+                    "product total": 30
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Petit Fromage 120g ervas finas ",
+                    "cost": 29,
+                    "product total": 29
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Lombo Suíno 1kg",
+                    "cost": 32,
+                    "product total": 32
+                }
+            ],
+            "totals": {
+                "subtotal": 122,
+                "frete": 10,
+                "TOTAL": 132
+            }
+        },
+        {
+            "client": {
+                "email": "lucianaroedel@gmail.com",
+                "name": "Luciana Roedel",
+                "phone": "21988872877",
+                "address": "Rua Pedro Américo, 189, 203",
+                "bairro": "Catete"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shimeji 200g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Coentro ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Goiaba 300g ",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 61,
+                "frete": 10,
+                "TOTAL": 71
+            }
+        },
+        {
+            "client": {
+                "email": "ligiagiovanella@gmail.com",
+                "name": "Ligia Giovanella",
+                "phone": "21981412254",
+                "address": "Travessa Manuel Lebrão, 28, null",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  1kg ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 3,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 10.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Siciliano 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Taiti 1kg ",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Mel Florada de Laranjeiras 450g ",
+                    "cost": 22,
+                    "product total": 22
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 30,
+                    "product total": 30
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Batata Doce Cenoura 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Inhame 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Roxa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Radicchio",
+                    "cost": 3,
+                    "product total": 3
+                }
+            ],
+            "totals": {
+                "subtotal": 105.5,
+                "frete": 10,
+                "TOTAL": 115.5
+            }
+        },
+        {
+            "client": {
+                "email": "leticia.tura@gmail.com",
+                "name": "Letícia Rangel Tura",
+                "phone": "21986361358",
+                "address": "Rua Professor Estelita Lins, 159, apto402",
+                "bairro": "Laranjeiras"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Batata Inglesa 1 kg ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Feijão Preto 1kg",
+                    "cost": 14,
+                    "product total": 14
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Roxa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  500g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Couve Mineira ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shimeji 200g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Crespa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana Prata 1kg",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 61.5,
+                "frete": 10,
+                "TOTAL": 71.5
+            }
+        },
+        {
+            "client": {
+                "email": "geobritto@gmail.com",
+                "name": "Geraldo Britto Lopes",
+                "phone": "21981068234",
+                "address": "Rua Almirante Alexandrino, 2800, Casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Banana D'agua 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Tangerina 1kg",
+                    "cost": 8,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  1kg ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Goiaba 1 kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana Prata 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Roxa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 10
+                }
+            ],
+            "totals": {
+                "subtotal": 77,
+                "frete": 10,
+                "TOTAL": 87
+            }
+        },
+        {
+            "client": {
+                "email": "akemi.nitahara@gmail.com",
+                "name": "Akemi Nitahara ",
+                "phone": "21981167081",
+                "address": "Rua Esteves Júnior, 22, Ap 305",
+                "bairro": "Laranjeiras"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Suco de Maçã  1 litro ",
+                    "cost": 22.5,
+                    "product total": 22.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tangerina 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Couve Mineira ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Crespa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Vó Gilda 350g",
+                    "cost": 30,
+                    "product total": 30
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Laranja  1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Siciliano 1kg",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 108.5,
+                "frete": 10,
+                "TOTAL": 118.5
+            }
+        },
+        {
+            "client": {
+                "email": "carolina.niemeyer@gmail.com",
+                "name": "Carolina Burle De Niemeyer",
+                "phone": "21982240597",
+                "address": "Rua Cesário Alvim, 55, 55",
+                "bairro": "Humaitá"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Xampus Sólido 100g abacate e lavandin cabelos e peles secos ",
+                    "cost": 23,
+                    "product total": 23
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cachaça Ouro 700ml ",
+                    "cost": 35,
+                    "product total": 35
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  500g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Crespa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Cateto Integral Terra Livre 1 kg",
+                    "cost": 16,
+                    "product total": 16
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Grão de Bico 500g",
+                    "cost": 25,
+                    "product total": 50
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz 7 Grãos 500g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 5.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aveia em Flocos Finos 350g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Milho de Pipoca Agroecológica 500g",
+                    "cost": 7,
+                    "product total": 7
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Granola de Tapioca",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Feijão vermelho 1kg",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Polvilho Doce 1kg",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Polvilho Azedo 1kg",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Peixinho da Horta",
+                    "cost": 3,
+                    "product total": 3
+                }
+            ],
+            "totals": {
+                "subtotal": 258,
+                "frete": 15,
+                "TOTAL": 273
+            }
+        },
+        {
+            "client": {
+                "email": "herculesquintanilha@gmail.com",
+                "name": "hercules josé oliveira quintanilha",
+                "phone": "21987279279",
+                "address": "Rua Gonçalves Fontes, 39, 301",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Cachaça Prata 700ml ",
+                    "cost": 32,
+                    "product total": 32
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Amora S/ Açúcar 180g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Feijão Manteiguinha de Santarém ",
+                    "cost": 18,
+                    "product total": 18
+                }
+            ],
+            "totals": {
+                "subtotal": 70,
+                "frete": 10,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "weidbety@gmail.com",
+                "name": "Elisabeth von der Weid ",
+                "phone": "21981957390",
+                "address": "Rua Áurea, 64 , casa",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Susteta chips Variados  banana chips salgada 45g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Susteta chips Variados  aipim chips de cebola a salsa 45g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Brownie 6 bocados Sabores chocolate com nozes ",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Radicchio",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Romana ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Roxa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Espinafre ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Quiabo 500g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Caja Manga  500g ",
+                    "cost": 4,
+                    "product total": 4
+                }
+            ],
+            "totals": {
+                "subtotal": 70,
+                "frete": 10,
+                "TOTAL": 80
+            }
+        },
+        {
+            "client": {
+                "email": "videla.ana@gmail.com",
+                "name": "ANA NEUZA BOTELHO VIDELA",
+                "phone": "2199550011",
+                "address": "Rua Almirante Alexandrino, 316, 201",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Lombo Suíno 1kg",
+                    "cost": 32,
+                    "product total": 32
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Kombuchas alKimia 1L hibisco e gengibre ",
+                    "cost": 40,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Kombuchas alKimia 1L abacaxi e hortela ",
+                    "cost": 40,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Inhame 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Caja Manga  500g ",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana Prata 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Taiti 1kg ",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Radicchio",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Crespa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shimeji 200g",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shitake 200g",
+                    "cost": 15,
+                    "product total": 15
+                }
+            ],
+            "totals": {
+                "subtotal": 189,
+                "frete": 10,
+                "TOTAL": 199
+            }
+        },
+        {
+            "client": {
+                "email": "manueasc@gmail.com",
+                "name": "Emanuela Aparecida Santiago do Carmo",
+                "phone": "21981347461",
+                "address": "Rua da Glória, 348, Apto 1003",
+                "bairro": "Glória"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Doce de Leite 140g ",
+                    "cost": 10,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Susteta chips Variados  aipim chips de cebola a salsa 45g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Coentro ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Quiabo 500g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tangerina 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Laranja  1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alho 100g",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                }
+            ],
+            "totals": {
+                "subtotal": 85,
+                "frete": 10,
+                "TOTAL": 95
+            }
+        },
+        {
+            "client": {
+                "email": "maludab219@gmail.com",
+                "name": "Maria Luiza Duarte Azevedo Barbosa",
+                "phone": "21981936478",
+                "address": "Rua Almirante Tamandaré, 67, Apto 1208",
+                "bairro": "Flamengo"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana Prata 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Limão Taiti 1kg ",
+                    "cost": 8,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Curcuma em pó orgânico",
+                    "cost": 7,
+                    "product total": 7
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Café Cooperbac (Torrado e Moido) 250g",
+                    "cost": 8.5,
+                    "product total": 8.5
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Canjicão Milho Amarelo 500g",
+                    "cost": 6,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Arroz Polido Branco a Granel 1Kg",
+                    "cost": 10,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Geleia de Framboesa 300g",
+                    "cost": 20,
+                    "product total": 20
+                }
+            ],
+            "totals": {
+                "subtotal": 97.5,
+                "frete": 10,
+                "TOTAL": 107.5
+            }
+        },
+        {
+            "client": {
+                "email": "thais.medeiros@gmail.com",
+                "name": "Thais Gomes de Medeiros",
+                "phone": "21971083391",
+                "address": "Rua Hermenegildo de Barros, 181, 302",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Frescal de Leite de Cabra 230g",
+                    "cost": 16,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana D'agua 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Romana ",
+                    "cost": 3,
+                    "product total": 3
+                }
+            ],
+            "totals": {
+                "subtotal": 61,
+                "frete": 10,
+                "TOTAL": 71
+            }
+        },
+        {
+            "client": {
+                "email": "jufotografia@gmail.com",
+                "name": "Maria Julia Schmidt",
+                "phone": "21972723297",
+                "address": "Rua Santa Cristina, 125, 104",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Batata Doce Cenoura 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Coalho 500g",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Creme para Pés 130g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo frescal 500g ",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cará 500g ",
+                    "cost": 4.5,
+                    "product total": 4.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Romana ",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  500g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 4,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Coentro ",
+                    "cost": 3,
+                    "product total": 3
+                }
+            ],
+            "totals": {
+                "subtotal": 132.5,
+                "frete": 10,
+                "TOTAL": 142.5
+            }
+        },
+        {
+            "client": {
+                "email": "mapaula.nascimento55@gmail.com",
+                "name": "Maria Paula Nascimento Araujo",
+                "phone": "21998011495",
+                "address": "Rua Belisário Távora, 77, apto 201",
+                "bairro": "Laranjeiras"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Quiabo 500g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  500g ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Taiti 1kg ",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Chocolate 62 % Cacau com Castanha do Brasil 15g ",
+                    "cost": 4,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Suco Integral de Uva Bordo 300ml ",
+                    "cost": 9,
+                    "product total": 9
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Massa Integral Orgânica 400g",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Couve Mineira ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Lisa",
+                    "cost": 3,
+                    "product total": 3
+                }
+            ],
+            "totals": {
+                "subtotal": 73,
+                "frete": 10,
+                "TOTAL": 83
+            }
+        },
+        {
+            "client": {
+                "email": "moniquecanuto@yahoo.com.br",
+                "name": "Monique de Souza Canuto",
+                "phone": "21969008468",
+                "address": "Rua Duque de Caxias, 39, 207",
+                "bairro": "Vila Isabel"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Artesanal Meia Cura",
+                    "cost": 30,
+                    "product total": 30
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte de Maracujá 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Sabonete Multi-ervas 158g ",
+                    "cost": 10,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Tipo Shancliche 120g  chimichurri ",
+                    "cost": 19,
+                    "product total": 19
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Susteta chips Variados  aipim chips de cebola a salsa 45g ",
+                    "cost": 6,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Polvilho Azedo 1kg",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Conserva de Picles 500g",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aipim descascado 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Brócolis Ramoso ",
+                    "cost": 6,
+                    "product total": 6
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tangerina 1kg",
+                    "cost": 8,
+                    "product total": 8
+                }
+            ],
+            "totals": {
+                "subtotal": 158,
+                "frete": 15,
+                "TOTAL": 173
+            }
+        },
+        {
+            "client": {
+                "email": "rapha.ksf@gmail.com",
+                "name": "Raphael dos Reis",
+                "phone": "21998206744",
+                "address": "Rua Riachuelo, 169, Apto. 108",
+                "bairro": "Centro"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Mel Silvestre Bisnaga 1 l ",
+                    "cost": 40,
+                    "product total": 40
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Canjiquinha curau de Milho Verde 200g",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Flocão de Milho (Cuscuz) 500g",
+                    "cost": 5.5,
+                    "product total": 11
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Doce de Goiaba unidade",
+                    "cost": 20,
+                    "product total": 20
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Doce de Banana (Sem Adição de Açúcar) 400g",
+                    "cost": 16,
+                    "product total": 16
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Laranja  1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Pasta de Cacau com Licuri 210 g",
+                    "cost": 28,
+                    "product total": 28
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cana de Açúcar 250 g",
+                    "cost": 5,
+                    "product total": 5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Banana D'agua 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Goiaba 1 kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                }
+            ],
+            "totals": {
+                "subtotal": 172,
+                "frete": 10,
+                "TOTAL": 182
+            }
+        },
+        {
+            "client": {
+                "email": "f.furtado7@gmail.com",
+                "name": "Fabrina Furtado",
+                "phone": "21980999209",
+                "address": "Rua Laurinda Santos Lobo, 44, 201",
+                "bairro": "Santa Teresa"
+            },
+            "products": [
+                {
+                    "quantity": 1,
+                    "product name": "Iogurte de Morango 1litro",
+                    "cost": 18,
+                    "product total": 18
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Queijo Coalho 500g",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Molho de Tomate - Parceria Regina Tchelly (Favela Orgânica) 330 g",
+                    "cost": 15,
+                    "product total": 15
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Granola 300 g",
+                    "cost": 25,
+                    "product total": 25
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Arroz Polido Branco a Granel 1Kg",
+                    "cost": 10,
+                    "product total": 10
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Café da Roça 250g",
+                    "cost": 8.5,
+                    "product total": 8.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Suco de Tangerina 1 litro ",
+                    "cost": 22.5,
+                    "product total": 22.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Cheiro Verde",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Aipim descascado 1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Ovos Caipiras ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Tomate Italiano  1kg ",
+                    "cost": 12,
+                    "product total": 12
+                },
+                {
+                    "quantity": 2,
+                    "product name": "Milho Verde unidade",
+                    "cost": 2.5,
+                    "product total": 5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Laranja  1kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Goiaba 1 kg",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Limão Galego 1kg 1kg ",
+                    "cost": 8,
+                    "product total": 8
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Abacate uni",
+                    "cost": 4,
+                    "product total": 4
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Couve Mineira ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Rúcula ",
+                    "cost": 3.5,
+                    "product total": 3.5
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Alface Crespa",
+                    "cost": 3,
+                    "product total": 3
+                },
+                {
+                    "quantity": 1,
+                    "product name": "Shitake 200g",
+                    "cost": 15,
+                    "product total": 15
+                }
+            ],
+            "totals": {
+                "subtotal": 217,
+                "frete": 10,
+                "TOTAL": 227
+            }
+        }
+    ]
+}
